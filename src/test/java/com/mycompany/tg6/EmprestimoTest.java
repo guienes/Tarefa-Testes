@@ -9,11 +9,11 @@ import static org.junit.jupiter.api.Assertions.*;
 
 /**
  *
- * @author grupo Ranger Verde
+ * @author Ranger Verde
  */
 public class EmprestimoTest {
     
-    Emprestimo instance = new Emprestimo();
+   Emprestimo instance = new Emprestimo();
     
     public EmprestimoTest() {
     }

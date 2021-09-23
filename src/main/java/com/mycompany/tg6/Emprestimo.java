@@ -6,10 +6,10 @@ package com.mycompany.tg6;
 
 /**
  *
- * @author grupo Ranger Verde
+ * @author Ranger Verde
  */
 public class Emprestimo {
-    public boolean LiberaSaldo(int saldo,boolean bomPagador,boolean especial){
+     public boolean LiberaSaldo(int saldo,boolean bomPagador,boolean especial){
         if(especial == true) {
             return true;
         } else if(bomPagador == true) {
